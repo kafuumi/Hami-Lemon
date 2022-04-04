@@ -1,7 +1,19 @@
-[![Hami-Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hami-Lemon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 👋 Hi, I’m @Hami-Lemon
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hami-Lemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+</span>
 
-- 👋 Hi, I’m @Hami-Lemon
-- 📫 hamilemon@qq.com
+一个热衷于写BUG的普通人✨!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Hami-Lemon&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hami-Lemon&layout=compact" />
+</a>
