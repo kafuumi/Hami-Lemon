@@ -1,10 +1,13 @@
 ## 👋 Hi, I’m @Hami-Lemon
 
 <span>
-  <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 </span>
