@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Markdown-origin?style=flat&logo=markdown&logoColor=white">
 </span>
 
-一个热衷于写BUG的普通人✨!
+✨一个热衷于写BUG的普通人😜!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Hami-Lemon&show_icons=true&theme=buefy" />
