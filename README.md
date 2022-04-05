@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/-Maven-red?style=flat&logo=apachemaven&logoColor=white">
   <img src="https://img.shields.io/badge/-Tomcat-yellow?style=flat&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white">
